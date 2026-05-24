@@ -136,9 +136,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\libs\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="ScriptHookVDotNet">
-      <HintPath>..\libs\ScriptHookVDotNet.dll</HintPath>
-    </Reference>
     <Reference Include="ScriptHookVDotNet3">
       <HintPath>..\libs\ScriptHookVDotNet3.dll</HintPath>
     </Reference>
